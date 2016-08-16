@@ -8,5 +8,6 @@ This solution contains the sample test for verifying the web page "IMDB top 250 
 
 -Have used NUnit Framework as the testing Framework
 
--This has been developed using .NET Framework 4.0 and its corresponding dlls are required in the local machine.
+-This has been developed using .NET Framework 4.5 and its corresponding dlls are required in the local machine.
 
+-App settings can be modified to use Chrome/IE/Firefox drivers
