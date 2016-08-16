@@ -1,0 +1,251 @@
+|Movie|IMDB Rating|Year|
+|The Shawshank Redemption |9.2|1994|
+|The Godfather |9.2|1972|
+|The Godfather: Part II |9.0|1974|
+|The Dark Knight |8.9|2008|
+|Schindler's List |8.9|1993|
+|12 Angry Men |8.9|1957|
+|Pulp Fiction |8.9|1994|
+|The Lord of the Rings: The Return of the King |8.9|2003|
+|The Good, the Bad and the Ugly |8.9|1966|
+|Fight Club |8.8|1999|
+|The Lord of the Rings: The Fellowship of the Ring |8.8|2001|
+|Star Wars: Episode V - The Empire Strikes Back |8.7|1980|
+|Forrest Gump |8.7|1994|
+|Inception |8.7|2010|
+|The Lord of the Rings: The Two Towers |8.7|2002|
+|One Flew Over the Cuckoo's Nest |8.7|1975|
+|Goodfellas |8.7|1990|
+|The Matrix |8.7|1999|
+|Seven Samurai |8.6|1954|
+|Star Wars: Episode IV - A New Hope |8.6|1977|
+|City of God |8.6|2002|
+|Se7en |8.6|1995|
+|The Silence of the Lambs |8.6|1991|
+|It's a Wonderful Life |8.6|1946|
+|The Usual Suspects |8.6|1995|
+|Life Is Beautiful |8.6|1997|
+|Léon: The Professional |8.6|1994|
+|Once Upon a Time in the West |8.5|1968|
+|Spirited Away |8.5|2001|
+|Saving Private Ryan |8.5|1998|
+|American History X |8.5|1998|
+|Casablanca |8.5|1942|
+|Interstellar |8.5|2014|
+|Psycho |8.5|1960|
+|City Lights |8.5|1931|
+|Raiders of the Lost Ark |8.5|1981|
+|Modern Times |8.5|1936|
+|The Intouchables |8.5|2011|
+|The Green Mile |8.5|1999|
+|Rear Window |8.5|1954|
+|Terminator 2: Judgment Day |8.5|1991|
+|The Pianist |8.5|2002|
+|The Departed |8.5|2006|
+|Back to the Future |8.5|1985|
+|Whiplash |8.5|2014|
+|Gladiator |8.5|2000|
+|Memento |8.5|2000|
+|Apocalypse Now |8.5|1979|
+|The Prestige |8.5|2006|
+|The Lion King |8.4|1994|
+|Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb |8.4|1964|
+|Sunset Boulevard |8.4|1950|
+|Alien |8.4|1979|
+|The Great Dictator |8.4|1940|
+|The Lives of Others |8.4|2006|
+|Cinema Paradiso |8.4|1988|
+|Paths of Glory |8.4|1957|
+|Django Unchained |8.4|2012|
+|The Shining |8.4|1980|
+|Grave of the Fireflies |8.4|1988|
+|WALL·E |8.4|2008|
+|The Dark Knight Rises |8.4|2012|
+|American Beauty |8.4|1999|
+|Aliens |8.4|1986|
+|Princess Mononoke |8.4|1997|
+|Oldboy |8.4|2003|
+|Citizen Kane |8.4|1941|
+|Once Upon a Time in America |8.4|1984|
+|Das Boot |8.3|1981|
+|North by Northwest |8.3|1959|
+|Vertigo |8.3|1958|
+|Witness for the Prosecution |8.3|1957|
+|Star Wars: Episode VI - Return of the Jedi |8.3|1983|
+|M |8.3|1931|
+|Reservoir Dogs |8.3|1992|
+|Braveheart |8.3|1995|
+|Amélie |8.3|2001|
+|Requiem for a Dream |8.3|2000|
+|A Clockwork Orange |8.3|1971|
+|Taxi Driver |8.3|1976|
+|Double Indemnity |8.3|1944|
+|Lawrence of Arabia |8.3|1962|
+|Toy Story 3 |8.3|2010|
+|To Kill a Mockingbird |8.3|1962|
+|Eternal Sunshine of the Spotless Mind |8.3|2004|
+|Amadeus |8.3|1984|
+|Full Metal Jacket |8.3|1987|
+|The Sting |8.3|1973|
+|2001: A Space Odyssey |8.3|1968|
+|Bicycle Thieves |8.3|1948|
+|Singin' in the Rain |8.3|1952|
+|Toy Story |8.3|1995|
+|Snatch |8.3|2000|
+|Inglourious Basterds |8.3|2009|
+|Monty Python and the Holy Grail |8.3|1975|
+|The Kid |8.3|1921|
+|L.A. Confidential |8.3|1997|
+|For a Few Dollars More |8.3|1965|
+|Rashomon |8.3|1950|
+|The Apartment |8.3|1960|
+|Scarface |8.3|1983|
+|Indiana Jones and the Last Crusade |8.3|1989|
+|A Separation |8.3|2011|
+|3 Idiots |8.2|2009|
+|Metropolis |8.2|1927|
+|All About Eve |8.2|1950|
+|The Hunt |8.2|2012|
+|Yojimbo |8.2|1961|
+|Batman Begins |8.2|2005|
+|Good Will Hunting |8.2|1997|
+|The Treasure of the Sierra Madre |8.2|1948|
+|Some Like It Hot |8.2|1959|
+|Up |8.2|2009|
+|Unforgiven |8.2|1992|
+|The Third Man |8.2|1949|
+|Children of Heaven |8.2|1997|
+|Raging Bull |8.2|1980|
+|Downfall |8.2|2004|
+|Die Hard |8.2|1988|
+|Inside Out |8.2|2015|
+|The Great Escape |8.2|1963|
+|Chinatown |8.2|1974|
+|Heat |8.2|1995|
+|The Passion of Joan of Arc |8.2|1928|
+|Pan's Labyrinth |8.2|2006|
+|Room |8.2|2015|
+|On the Waterfront |8.2|1954|
+|My Neighbor Totoro |8.2|1988|
+|Ikiru |8.2|1952|
+|Ran |8.2|1985|
+|The Gold Rush |8.2|1925|
+|Mr. Smith Goes to Washington |8.2|1939|
+|The Bridge on the River Kwai |8.2|1957|
+|The Secret in Their Eyes |8.2|2009|
+|Blade Runner |8.2|1982|
+|The Seventh Seal |8.2|1957|
+|Lock, Stock and Two Smoking Barrels |8.2|1998|
+|Howl's Moving Castle |8.2|2004|
+|Sunrise |8.2|1927|
+|Casino |8.2|1995|
+|Wild Strawberries |8.2|1957|
+|The General |8.2|1926|
+|The Elephant Man |8.2|1980|
+|Judgment at Nuremberg |8.2|1961|
+|Warrior |8.2|2011|
+|A Beautiful Mind |8.2|2001|
+|The Wolf of Wall Street |8.2|2013|
+|V for Vendetta |8.1|2005|
+|Star Wars: The Force Awakens |8.1|2015|
+|Tokyo Story |8.1|1953|
+|Incendies |8.1|2010|
+|Gran Torino |8.1|2008|
+|The Big Lebowski |8.1|1998|
+|The Deer Hunter |8.1|1978|
+|Trainspotting |8.1|1996|
+|Dial M for Murder |8.1|1954|
+|Fargo |8.1|1996|
+|Gone with the Wind |8.1|1939|
+|Rebecca |8.1|1940|
+|Cool Hand Luke |8.1|1967|
+|How to Train Your Dragon |8.1|2010|
+|Finding Nemo |8.1|2003|
+|The Message |8.1|1976|
+|The Sixth Sense |8.1|1999|
+|The Thing |8.1|1982|
+|No Country for Old Men |8.1|2007|
+|Come and See |8.1|1985|
+|Into the Wild |8.1|2007|
+|Mary and Max |8.1|2009|
+|Gone Girl |8.1|2014|
+|Kill Bill: Vol. 1 |8.1|2003|
+|It Happened One Night |8.1|1934|
+|Captain America: Civil War |8.1|2016|
+|Life of Brian |8.1|1979|
+|There Will Be Blood |8.1|2007|
+|Rush |8.1|2013|
+|Nights of Cabiria |8.1|1957|
+|Hotel Rwanda |8.1|2004|
+|Platoon |8.1|1986|
+|The Maltese Falcon |8.1|1941|
+|The Wages of Fear |8.1|1953|
+|Network |8.1|1976|
+|Spotlight |8.1|2015|
+|Mad Max: Fury Road |8.1|2015|
+|Butch Cassidy and the Sundance Kid |8.1|1969|
+|Shutter Island |8.1|2010|
+|The 400 Blows |8.1|1959|
+|Zootopia |8.1|2016|
+|Stand by Me |8.1|1986|
+|In the Name of the Father |8.1|1993|
+|12 Years a Slave |8.1|2013|
+|Persona |8.1|1966|
+|The Grand Budapest Hotel |8.1|2014|
+|Amores Perros |8.1|2000|
+|Million Dollar Baby |8.1|2004|
+|Wild Tales |8.1|2014|
+|Ben-Hur |8.1|1959|
+|The Princess Bride |8.1|1987|
+|Touch of Evil |8.1|1958|
+|Hachi: A Dog's Tale |8.1|2009|
+|Jurassic Park |8.1|1993|
+|Nausicaä of the Valley of the Wind |8.1|1984|
+|The Grapes of Wrath |8.1|1940|
+|Annie Hall |8.1|1977|
+|Stalker |8.1|1979|
+|Memories of Murder |8.0|2003|
+|Before Sunrise |8.0|1995|
+|The Bourne Ultimatum |8.0|2007|
+|The Truman Show |8.0|1998|
+|Gandhi |8.0|1982|
+|Diabolique |8.0|1955|
+|Donnie Darko |8.0|2001|
+|Rocky |8.0|1976|
+|Deadpool |8.0|2016|
+|8½ |8.0|1963|
+|Monsters, Inc. |8.0|2001|
+|Harry Potter and the Deathly Hallows: Part 2 |8.0|2011|
+|The Wizard of Oz |8.0|1939|
+|The Terminator |8.0|1984|
+|Twelve Monkeys |8.0|1995|
+|The Revenant |8.0|2015|
+|Groundhog Day |8.0|1993|
+|The Best Years of Our Lives |8.0|1946|
+|Infernal Affairs |8.0|2002|
+|Strangers on a Train |8.0|1951|
+|Jaws |8.0|1975|
+|Sin City |8.0|2005|
+|La Haine |8.0|1995|
+|Kind Hearts and Coronets |8.0|1949|
+|Prisoners |8.0|2013|
+|Barry Lyndon |8.0|1975|
+|The Battle of Algiers |8.0|1966|
+|Catch Me If You Can |8.0|2002|
+|Dog Day Afternoon |8.0|1975|
+|The Martian |8.0|2015|
+|Ip Man |8.0|2008|
+|Pirates of the Caribbean: The Curse of the Black Pearl |8.0|2003|
+|The Imitation Game |8.0|2014|
+|The Help |8.0|2011|
+|Fanny and Alexander |8.0|1982|
+|A Fistful of Dollars |8.0|1964|
+|Castle in the Sky |8.0|1986|
+|Guardians of the Galaxy |8.0|2014|
+|Roman Holiday |8.0|1953|
+|Gangs of Wasseypur |8.0|2012|
+|The Avengers |8.0|2012|
+|The King's Speech |8.0|2010|
+|Throne of Blood |8.0|1957|
+|High Noon |8.0|1952|
+|Lagaan: Once Upon a Time in India |8.0|2001|
